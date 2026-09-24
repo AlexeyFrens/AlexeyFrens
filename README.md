@@ -24,8 +24,8 @@
 
 ---
 <p>
-    <img alt="Github Stats" style="padding-right: 5px" src="https://github-readme-stats.vercel.app/api?username=AlexeyFrens&show_icons=true&theme=tokyonight"/>
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyFrens&layout=compact&hide=C,CMake&theme=tokyonight"/>
+    <img alt="Github Stats" style="padding-right: 5px" src="https://github-stats-extended.vercel.app/api?username=AlexeyFrens&show_icons=true&theme=tokyonight"/>
+    <img alt="Github Stats" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexeyFrens&layout=compact&hide=C,CMake&theme=tokyonight"/>
     <img alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexeyFrens&theme=tokyonight"/>
 </p>
 
